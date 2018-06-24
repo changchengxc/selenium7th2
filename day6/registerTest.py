@@ -24,3 +24,4 @@ class RegisterTest(MyTestCase):
         self.assertEqual("changcheng186242", new_record[1])
         self.assertEqual("asds@sd23a2.com", new_record[2])
         print(new_record)
+        print("修改代码,为了测试git")
